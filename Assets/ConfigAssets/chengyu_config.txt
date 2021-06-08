@@ -1,0 +1,1482 @@
+[
+    {
+        "curtext": "倒|非|口|颠|心|是",
+        "resulttext": "颠|倒|是|非|口|是|心|非",
+        "weight": 1
+    },
+    {
+        "curtext": "颜|筋|柳|媚|骨|奴",
+        "resulttext": "颜|筋|柳|骨|奴|颜|媚|骨",
+        "weight": 1
+    },
+    {
+        "curtext": "顾|伏|失|此|彼|起",
+        "resulttext": "顾|此|失|彼|此|起|彼|伏",
+        "weight": 1
+    },
+    {
+        "curtext": "金|土|如|面|挥|色",
+        "resulttext": "面|如|土|色|挥|金|如|土",
+        "weight": 1
+    },
+    {
+        "curtext": "青|山|尽|穷|绿|水",
+        "resulttext": "青|山|绿|水|山|穷|水|尽",
+        "weight": 1
+    },
+    {
+        "curtext": "风|雨|笋|后|春|化",
+        "resulttext": "雨|后|春|笋|春|风|化|雨",
+        "weight": 1
+    },
+    {
+        "curtext": "雪|春|白|皑|阳|皑",
+        "resulttext": "阳|春|白|雪|白|雪|皑|皑",
+        "weight": 1
+    },
+    {
+        "curtext": "闭|秋|月|春|花|羞",
+        "resulttext": "闭|月|羞|花|春|花|秋|月",
+        "weight": 1
+    },
+    {
+        "curtext": "累|长|日|年|积|月",
+        "resulttext": "长|年|累|月|日|积|月|累",
+        "weight": 1
+    },
+    {
+        "curtext": "长|叹|三|吁|两|短",
+        "resulttext": "长|吁|短|叹|三|长|两|短",
+        "weight": 1
+    },
+    {
+        "curtext": "我|绣|河|还|锦|山",
+        "resulttext": "锦|绣|山|河|还|我|河|山",
+        "weight": 1
+    },
+    {
+        "curtext": "添|花|上|锦|团|簇",
+        "resulttext": "锦|上|添|花|花|团|锦|簇",
+        "weight": 1
+    },
+    {
+        "curtext": "稳|山|泰|如|证|铁",
+        "resulttext": "铁|证|如|山|稳|如|泰|山",
+        "weight": 1
+    },
+    {
+        "curtext": "石|木|人|肠|心|铁",
+        "resulttext": "铁|石|心|肠|木|人|石|心",
+        "weight": 1
+    },
+    {
+        "curtext": "金|玉|言|叶|良|枝",
+        "resulttext": "金|玉|良|言|金|枝|玉|叶",
+        "weight": 1
+    },
+    {
+        "curtext": "地|花|遍|春|暖|开",
+        "resulttext": "遍|地|开|花|春|暖|花|开",
+        "weight": 1
+    },
+    {
+        "curtext": "同|然|以|不|为|迥",
+        "resulttext": "迥|然|不|同|不|以|为|然",
+        "weight": 1
+    },
+    {
+        "curtext": "远|舍|求|近|交|攻",
+        "resulttext": "远|交|近|攻|舍|近|求|远",
+        "weight": 1
+    },
+    {
+        "curtext": "山|河|气|吞|还|我",
+        "resulttext": "还|我|河|山|气|吞|山|河",
+        "weight": 1
+    },
+    {
+        "curtext": "云|过|眼|消|烟|散",
+        "resulttext": "过|眼|烟|云|烟|消|云|散",
+        "weight": 1
+    },
+    {
+        "curtext": "云|眼|过|散|烟|消",
+        "resulttext": "过|眼|云|烟|烟|消|云|散",
+        "weight": 1
+    },
+    {
+        "curtext": "危|转|为|思|居|安",
+        "resulttext": "转|危|为|安|居|安|思|危",
+        "weight": 1
+    },
+    {
+        "curtext": "水|车|马|杯|薪|龙",
+        "resulttext": "车|水|马|龙|杯|水|车|薪",
+        "weight": 1
+    },
+    {
+        "curtext": "起|死|生|贪|怕|回",
+        "resulttext": "起|死|回|生|贪|生|怕|死",
+        "weight": 1
+    },
+    {
+        "curtext": "辙|走|北|南|辕|闯",
+        "resulttext": "走|南|闯|北|南|辕|北|辙",
+        "weight": 1
+    },
+    {
+        "curtext": "耿|胆|忠|耿|赤|心",
+        "resulttext": "赤|胆|忠|心|忠|心|耿|耿",
+        "weight": 1
+    },
+    {
+        "curtext": "生|谈|风|老|常|笑",
+        "resulttext": "谈|笑|风|生|老|生|常|谈",
+        "weight": 1
+    },
+    {
+        "curtext": "死|誓|父|不|庆|二",
+        "resulttext": "誓|死|不|二|庆|父|不|死",
+        "weight": 1
+    },
+    {
+        "curtext": "难|寸|行|矩|步|规",
+        "resulttext": "规|行|矩|步|寸|步|难|行",
+        "weight": 1
+    },
+    {
+        "curtext": "遏|水|响|云|行|流",
+        "resulttext": "行|云|流|水|响|遏|行|云",
+        "weight": 1
+    },
+    {
+        "curtext": "雨|暴|狂|血|腥|风",
+        "resulttext": "血|雨|腥|风|狂|风|暴|雨",
+        "weight": 1
+    },
+    {
+        "curtext": "头|破|血|河|成|流",
+        "resulttext": "血|流|成|河|头|破|血|流",
+        "weight": 1
+    },
+    {
+        "curtext": "活|余|龙|虎|口|生",
+        "resulttext": "虎|口|余|生|生|龙|活|虎",
+        "weight": 1
+    },
+    {
+        "curtext": "三|日|竿|蒸|蒸|上",
+        "resulttext": "蒸|蒸|日|上|日|上|三|竿",
+        "weight": 1
+    },
+    {
+        "curtext": "甘|共|同|苦|来|尽",
+        "resulttext": "苦|尽|甘|来|同|甘|共|苦",
+        "weight": 1
+    },
+    {
+        "curtext": "死|别|离|忘|舍|生",
+        "resulttext": "舍|生|忘|死|生|离|死|别",
+        "weight": 1
+    },
+    {
+        "curtext": "死|舍|离|生|别|忘",
+        "resulttext": "舍|死|忘|生|生|离|死|别",
+        "weight": 1
+    },
+    {
+        "curtext": "置|求|末|倒|本|舍",
+        "resulttext": "舍|本|求|末|本|末|倒|置",
+        "weight": 1
+    },
+    {
+        "curtext": "为|己|人|后|先|舍",
+        "resulttext": "舍|己|为|人|先|人|后|己",
+        "weight": 1
+    },
+    {
+        "curtext": "高|自|大|妄|尊|自",
+        "resulttext": "自|高|自|大|妄|自|尊|大",
+        "weight": 1
+    },
+    {
+        "curtext": "能|自|凡|命|不|已",
+        "resulttext": "自|命|不|凡|不|能|自|已",
+        "weight": 1
+    },
+    {
+        "curtext": "茧|自|自|受|缚|作",
+        "resulttext": "自|作|自|受|作|茧|自|缚",
+        "weight": 1
+    },
+    {
+        "curtext": "雾|云|腾|驾|蒙|迷",
+        "resulttext": "腾|云|驾|雾|云|雾|迷|蒙",
+        "weight": 1
+    },
+    {
+        "curtext": "胆|包|天|大|弥|谎",
+        "resulttext": "胆|大|包|天|弥|天|大|谎",
+        "weight": 1
+    },
+    {
+        "curtext": "惮|顾|无|所|肆|忌",
+        "resulttext": "肆|无|忌|惮|无|所|顾|忌",
+        "weight": 1
+    },
+    {
+        "curtext": "似|玉|美|冠|花|如",
+        "resulttext": "美|如|冠|玉|如|花|似|玉",
+        "weight": 1
+    },
+    {
+        "curtext": "水|绿|尽|穷|山|青",
+        "resulttext": "绿|水|青|山|山|穷|水|尽",
+        "weight": 1
+    },
+    {
+        "curtext": "眼|有|绝|无|珠|仅",
+        "resulttext": "绝|无|仅|有|有|眼|无|珠",
+        "weight": 1
+    },
+    {
+        "curtext": "厉|俱|声|绘|色|绘",
+        "resulttext": "绘|声|绘|色|声|色|俱|厉",
+        "weight": 1
+    },
+    {
+        "curtext": "然|谈|跃|上|纸|兵",
+        "resulttext": "纸|上|谈|兵|跃|然|纸|上",
+        "weight": 1
+    },
+    {
+        "curtext": "茂|粗|枝|繁|大|叶",
+        "resulttext": "粗|枝|大|叶|枝|繁|叶|茂",
+        "weight": 1
+    },
+    {
+        "curtext": "中|管|蠡|窥|豹|测",
+        "resulttext": "管|中|窥|豹|管|窥|蠡|测",
+        "weight": 1
+    },
+    {
+        "curtext": "如|画|山|泰|稳|江",
+        "resulttext": "稳|如|泰|山|江|山|如|画",
+        "weight": 1
+    },
+    {
+        "curtext": "少|积|吉|凶|多|成",
+        "resulttext": "积|少|成|多|凶|多|吉|少",
+        "weight": 1
+    },
+    {
+        "curtext": "里|空|万|碧|无|云",
+        "resulttext": "碧|空|万|里|万|里|无|云",
+        "weight": 1
+    },
+    {
+        "curtext": "坠|花|眼|天|乱|缭",
+        "resulttext": "眼|花|缭|乱|天|花|乱|坠",
+        "weight": 1
+    },
+    {
+        "curtext": "才|实|真|学|疏|浅",
+        "resulttext": "真|才|实|学|才|疏|学|浅",
+        "weight": 1
+    },
+    {
+        "curtext": "心|猿|诚|马|真|意",
+        "resulttext": "真|心|诚|意|心|猿|意|马",
+        "weight": 1
+    },
+    {
+        "curtext": "弄|挤|眉|开|笑|眼",
+        "resulttext": "眉|开|眼|笑|挤|眉|弄|眼",
+        "weight": 1
+    },
+    {
+        "curtext": "十|目|空|切|一|行",
+        "resulttext": "目|空|一|切|一|目|十|行",
+        "weight": 1
+    },
+    {
+        "curtext": "人|有|生|中|无|目",
+        "resulttext": "目|中|无|人|无|中|生|有",
+        "weight": 1
+    },
+    {
+        "curtext": "百|杀|儆|里|挑|一",
+        "resulttext": "百|里|挑|一|杀|一|儆|百",
+        "weight": 1
+    },
+    {
+        "curtext": "千|钢|锤|炼|百|成",
+        "resulttext": "百|炼|成|钢|千|锤|百|炼",
+        "weight": 1
+    },
+    {
+        "curtext": "千|孔|百|锤|炼|疮",
+        "resulttext": "百|孔|千|疮|千|锤|百|炼",
+        "weight": 1
+    },
+    {
+        "curtext": "白|中|苍|狗|云|鹤",
+        "resulttext": "白|云|苍|狗|云|中|白|鹤",
+        "weight": 1
+    },
+    {
+        "curtext": "活|龙|盘|虎|踞|生",
+        "resulttext": "生|龙|活|虎|虎|踞|龙|盘",
+        "weight": 1
+    },
+    {
+        "curtext": "离|一|九|生|死|别",
+        "resulttext": "生|离|死|别|九|死|一|生",
+        "weight": 1
+    },
+    {
+        "curtext": "目|疮|满|痍|琅|琳",
+        "resulttext": "琳|琅|满|目|满|目|疮|痍",
+        "weight": 1
+    },
+    {
+        "curtext": "虎|吞|如|咽|狼|似",
+        "resulttext": "狼|吞|虎|咽|如|狼|似|虎",
+        "weight": 1
+    },
+    {
+        "curtext": "雨|满|风|暴|狂|城",
+        "resulttext": "狂|风|暴|雨|满|城|风|雨",
+        "weight": 1
+    },
+    {
+        "curtext": "熙|往|来|攘|古|今",
+        "resulttext": "熙|来|攘|往|古|往|今|来",
+        "weight": 1
+    },
+    {
+        "curtext": "经|神|漫|心|定|不",
+        "resulttext": "漫|不|经|心|心|神|不|定",
+        "weight": 1
+    },
+    {
+        "curtext": "滴|不|穿|漏|石|水",
+        "resulttext": "滴|水|不|漏|水|滴|石|穿",
+        "weight": 1
+    },
+    {
+        "curtext": "化|风|雨|春|满|城",
+        "resulttext": "满|城|风|雨|春|风|化|雨",
+        "weight": 1
+    },
+    {
+        "curtext": "缕|绝|不|如|滔|滔",
+        "resulttext": "滔|滔|不|绝|不|绝|如|缕",
+        "weight": 1
+    },
+    {
+        "curtext": "倾|大|盆|雨|滂|沱",
+        "resulttext": "滂|沱|大|雨|大|雨|倾|盆",
+        "weight": 1
+    },
+    {
+        "curtext": "夜|静|人|深|更|半",
+        "resulttext": "深|更|半|夜|夜|深|人|静",
+        "weight": 1
+    },
+    {
+        "curtext": "刀|海|山|誓|火|盟",
+        "resulttext": "海|誓|山|盟|刀|山|火|海",
+        "weight": 1
+    },
+    {
+        "curtext": "体|一|了|目|浑|然",
+        "resulttext": "浑|然|一|体|一|目|了|然",
+        "weight": 1
+    },
+    {
+        "curtext": "洋|洋|观|大|海|汪",
+        "resulttext": "洋|洋|大|观|汪|洋|大|海",
+        "weight": 1
+    },
+    {
+        "curtext": "壁|江|山|画|如|半",
+        "resulttext": "江|山|如|画|半|壁|江|山",
+        "weight": 1
+    },
+    {
+        "curtext": "存|工|曲|同|异|求",
+        "resulttext": "求|同|存|异|异|曲|同|工",
+        "weight": 1
+    },
+    {
+        "curtext": "吞|河|山|好|大|气",
+        "resulttext": "气|吞|山|河|大|好|河|山",
+        "weight": 1
+    },
+    {
+        "curtext": "起|厚|薄|此|伏|彼",
+        "resulttext": "此|起|彼|伏|厚|此|薄|彼",
+        "weight": 1
+    },
+    {
+        "curtext": "方|长|久|来|天|日",
+        "resulttext": "来|日|方|长|日|久|天|长",
+        "weight": 1
+    },
+    {
+        "curtext": "抹|百|儆|杀|一|笔",
+        "resulttext": "杀|一|儆|百|一|笔|抹|杀",
+        "weight": 1
+    },
+    {
+        "curtext": "夕|只|处|朝|相|争",
+        "resulttext": "朝|夕|相|处|只|争|朝|夕",
+        "weight": 1
+    },
+    {
+        "curtext": "有|不|心|奇|口|无",
+        "resulttext": "有|口|无|心|无|奇|不|有",
+        "weight": 1
+    },
+    {
+        "curtext": "稀|月|披|星|明|戴",
+        "resulttext": "月|明|星|稀|戴|月|披|星",
+        "weight": 1
+    },
+    {
+        "curtext": "跳|贯|暴|如|耳|雷",
+        "resulttext": "暴|跳|如|雷|如|雷|贯|耳",
+        "weight": 1
+    },
+    {
+        "curtext": "化|如|油|风|雨|春",
+        "resulttext": "春|风|化|雨|春|雨|如|油",
+        "weight": 1
+    },
+    {
+        "curtext": "汗|雨|油|春|如|挥",
+        "resulttext": "春|雨|如|油|挥|汗|如|雨",
+        "weight": 1
+    },
+    {
+        "curtext": "秋|春|开|花|暖|月",
+        "resulttext": "春|花|秋|月|春|暖|花|开",
+        "weight": 1
+    },
+    {
+        "curtext": "媚|春|光|落|磊|明",
+        "resulttext": "春|光|明|媚|光|明|磊|落",
+        "weight": 1
+    },
+    {
+        "curtext": "暗|弃|争|投|斗|明",
+        "resulttext": "明|争|暗|斗|弃|暗|投|明",
+        "weight": 1
+    },
+    {
+        "curtext": "天|日|中|久|如|长",
+        "resulttext": "日|久|天|长|如|日|中|天",
+        "weight": 1
+    },
+    {
+        "curtext": "日|三|秋|上|一|竿",
+        "resulttext": "日|上|三|竿|一|日|三|秋",
+        "weight": 1
+    },
+    {
+        "curtext": "远|忧|无|人|无|虑",
+        "resulttext": "无|忧|无|虑|人|无|远|虑",
+        "weight": 1
+    },
+    {
+        "curtext": "药|忍|无|忍|可|救",
+        "resulttext": "无|可|救|药|忍|无|可|忍",
+        "weight": 1
+    },
+    {
+        "curtext": "碌|牛|碌|为|无|后",
+        "resulttext": "无|为|牛|后|碌|碌|无|为",
+        "weight": 1
+    },
+    {
+        "curtext": "踵|而|至|肩|摩|接",
+        "resulttext": "摩|肩|接|踵|接|踵|而|至",
+        "weight": 1
+    },
+    {
+        "curtext": "患|推|之|心|腹|置",
+        "resulttext": "推|心|置|腹|心|腹|之|患",
+        "weight": 1
+    },
+    {
+        "curtext": "捧|便|大|笑|便|腹",
+        "resulttext": "捧|腹|大|笑|大|腹|便|便",
+        "weight": 1
+    },
+    {
+        "curtext": "如|挥|土|洒|金|自",
+        "resulttext": "挥|金|如|土|挥|洒|自|如",
+        "weight": 1
+    },
+    {
+        "curtext": "如|汗|雨|洒|挥|自",
+        "resulttext": "挥|洒|自|如|挥|汗|如|雨",
+        "weight": 1
+    },
+    {
+        "curtext": "脚|乱|指|手|画|忙",
+        "resulttext": "指|手|画|脚|手|忙|脚|乱",
+        "weight": 1
+    },
+    {
+        "curtext": "行|承|效|启|下|上",
+        "resulttext": "承|上|启|下|上|行|下|效",
+        "weight": 1
+    },
+    {
+        "curtext": "弱|肉|食|扶|抑|强",
+        "resulttext": "扶|弱|抑|强|弱|肉|强|食",
+        "weight": 1
+    },
+    {
+        "curtext": "吐|高|眉|趾|扬|气",
+        "resulttext": "扬|眉|吐|气|趾|高|气|扬",
+        "weight": 1
+    },
+    {
+        "curtext": "措|蹈|手|舞|足|无",
+        "resulttext": "手|足|无|措|手|舞|足|蹈",
+        "weight": 1
+    },
+    {
+        "curtext": "情|同|蹈|舞|手|足",
+        "resulttext": "手|舞|足|蹈|情|同|手|足",
+        "weight": 1
+    },
+    {
+        "curtext": "手|大|忙|乱|大|脚",
+        "resulttext": "手|忙|脚|乱|大|手|大|脚",
+        "weight": 1
+    },
+    {
+        "curtext": "众|戴|披|捧|月|星",
+        "resulttext": "戴|月|披|星|众|星|捧|月",
+        "weight": 1
+    },
+    {
+        "curtext": "惩|后|因|毖|果|前",
+        "resulttext": "惩|前|毖|后|前|因|后|果",
+        "weight": 1
+    },
+    {
+        "curtext": "慌|惊|大|措|色|失",
+        "resulttext": "惊|慌|失|措|大|惊|失|色",
+        "weight": 1
+    },
+    {
+        "curtext": "动|惊|天|地|覆|翻",
+        "resulttext": "惊|天|动|地|天|翻|地|覆",
+        "weight": 1
+    },
+    {
+        "curtext": "问|恬|耻|下|知|不",
+        "resulttext": "恬|不|知|耻|不|耻|下|问",
+        "weight": 1
+    },
+    {
+        "curtext": "得|然|其|怡|乐|自",
+        "resulttext": "怡|然|自|得|自|得|其|乐",
+        "weight": 1
+    },
+    {
+        "curtext": "冠|上|冲|指|怒|发",
+        "resulttext": "怒|发|冲|冠|发|上|指|冠",
+        "weight": 1
+    },
+    {
+        "curtext": "忍|忍|议|可|非|无",
+        "resulttext": "忍|无|可|忍|无|可|非|议",
+        "weight": 1
+    },
+    {
+        "curtext": "旷|心|神|定|怡|不",
+        "resulttext": "心|神|不|定|心|旷|神|怡",
+        "weight": 1
+    },
+    {
+        "curtext": "灵|手|应|巧|心|得",
+        "resulttext": "心|灵|手|巧|得|心|应|手",
+        "weight": 1
+    },
+    {
+        "curtext": "全|意|心|慌|全|乱",
+        "resulttext": "心|慌|意|乱|全|心|全|意",
+        "weight": 1
+    },
+    {
+        "curtext": "战|胆|肉|惊|跳|心",
+        "resulttext": "心|惊|肉|跳|胆|战|心|惊",
+        "weight": 1
+    },
+    {
+        "curtext": "应|安|心|得|手|理",
+        "resulttext": "心|安|理|得|得|心|应|手",
+        "weight": 1
+    },
+    {
+        "curtext": "不|微|道|训|足|为",
+        "resulttext": "微|不|足|道|不|足|为|训",
+        "weight": 1
+    },
+    {
+        "curtext": "穷|强|词|理|夺|屈",
+        "resulttext": "强|词|夺|理|理|屈|词|穷",
+        "weight": 1
+    },
+    {
+        "curtext": "示|甘|风|不|弱|禁",
+        "resulttext": "弱|不|禁|风|不|甘|示|弱",
+        "weight": 1
+    },
+    {
+        "curtext": "小|口|异|同|声|大",
+        "resulttext": "异|口|同|声|大|同|小|异",
+        "weight": 1
+    },
+    {
+        "curtext": "无|座|虚|席|缈|缥",
+        "resulttext": "座|无|虚|席|虚|无|缥|缈",
+        "weight": 1
+    },
+    {
+        "curtext": "度|如|年|中|日|天",
+        "resulttext": "度|日|如|年|如|日|中|天",
+        "weight": 1
+    },
+    {
+        "curtext": "寝|忘|废|食|噎|因",
+        "resulttext": "废|寝|忘|食|因|噎|废|食",
+        "weight": 1
+    },
+    {
+        "curtext": "逢|想|左|右|源|思",
+        "resulttext": "左|思|右|想|左|右|逢|源",
+        "weight": 1
+    },
+    {
+        "curtext": "明|山|水|千|秀|万",
+        "resulttext": "山|明|水|秀|千|山|万|水",
+        "weight": 1
+    },
+    {
+        "curtext": "业|居|乐|思|危|安",
+        "resulttext": "居|安|思|危|安|居|乐|业",
+        "weight": 1
+    },
+    {
+        "curtext": "成|居|不|自|功|傲",
+        "resulttext": "居|功|自|傲|功|成|不|居",
+        "weight": 1
+    },
+    {
+        "curtext": "用|题|做|材|大|小",
+        "resulttext": "小|题|大|做|大|材|小|用",
+        "weight": 1
+    },
+    {
+        "curtext": "不|无|境|学|术|止",
+        "resulttext": "学|无|止|境|不|学|无|术",
+        "weight": 1
+    },
+    {
+        "curtext": "白|云|野|鹤|中|孤",
+        "resulttext": "孤|云|野|鹤|云|中|白|鹤",
+        "weight": 1
+    },
+    {
+        "curtext": "败|一|鱼|水|如|得",
+        "resulttext": "如|鱼|得|水|一|败|如|水",
+        "weight": 1
+    },
+    {
+        "curtext": "不|倦|勤|学|好|问",
+        "resulttext": "好|学|不|倦|勤|学|好|问",
+        "weight": 1
+    },
+    {
+        "curtext": "一|不|顾|身|屑|奋",
+        "resulttext": "奋|不|顾|身|不|屑|一|顾",
+        "weight": 1
+    },
+    {
+        "curtext": "尺|天|海|咫|涯|角",
+        "resulttext": "天|涯|海|角|咫|尺|天|涯",
+        "weight": 1
+    },
+    {
+        "curtext": "冻|地|天|寒|雪|冰",
+        "resulttext": "天|寒|地|冻|冰|天|雪|地",
+        "weight": 1
+    },
+    {
+        "curtext": "色|失|小|大|因|惊",
+        "resulttext": "大|惊|失|色|因|小|失|大",
+        "weight": 1
+    },
+    {
+        "curtext": "庭|大|广|相|径|众",
+        "resulttext": "大|庭|广|众|大|相|径|庭",
+        "weight": 1
+    },
+    {
+        "curtext": "表|河|山|里|大|好",
+        "resulttext": "大|好|河|山|表|里|山|河",
+        "weight": 1
+    },
+    {
+        "curtext": "小|失|大|因|异|同",
+        "resulttext": "大|同|小|异|因|小|失|大",
+        "weight": 1
+    },
+    {
+        "curtext": "静|人|思|发|夜|深",
+        "resulttext": "夜|深|人|静|发|人|深|思",
+        "weight": 1
+    },
+    {
+        "curtext": "一|成|此|多|名|举",
+        "resulttext": "多|此|一|举|一|举|成|名",
+        "weight": 1
+    },
+    {
+        "curtext": "牛|如|多|九|一|毛",
+        "resulttext": "多|如|牛|毛|九|牛|一|毛",
+        "weight": 1
+    },
+    {
+        "curtext": "声|东|倒|西|扶|击",
+        "resulttext": "声|东|击|西|东|扶|西|倒",
+        "weight": 1
+    },
+    {
+        "curtext": "不|挠|屈|不|坚|强",
+        "resulttext": "坚|强|不|屈|不|屈|不|挠",
+        "weight": 1
+    },
+    {
+        "curtext": "四|裂|五|分|湖|海",
+        "resulttext": "四|分|五|裂|五|湖|四|海",
+        "weight": 1
+    },
+    {
+        "curtext": "然|怅|失|若|笑|哑",
+        "resulttext": "哑|然|失|笑|怅|然|若|失",
+        "weight": 1
+    },
+    {
+        "curtext": "呼|风|唤|雨|千|万",
+        "resulttext": "呼|风|唤|雨|千|呼|万|唤",
+        "weight": 1
+    },
+    {
+        "curtext": "争|保|朝|不|只|夕",
+        "resulttext": "只|争|朝|夕|朝|不|保|夕",
+        "weight": 1
+    },
+    {
+        "curtext": "用|厚|薄|为|今|古",
+        "resulttext": "古|为|今|用|厚|今|薄|古",
+        "weight": 1
+    },
+    {
+        "curtext": "信|口|悬|开|若|河",
+        "resulttext": "口|若|悬|河|信|口|开|河",
+        "weight": 1
+    },
+    {
+        "curtext": "为|劣|优|败|胜|反",
+        "resulttext": "反|败|为|胜|优|胜|劣|败",
+        "weight": 1
+    },
+    {
+        "curtext": "可|颜|厚|耻|无|非",
+        "resulttext": "厚|颜|无|耻|无|可|厚|非",
+        "weight": 1
+    },
+    {
+        "curtext": "薄|博|古|通|厚|今",
+        "resulttext": "厚|今|薄|古|博|古|通|今",
+        "weight": 1
+    },
+    {
+        "curtext": "不|胜|数|可|历|历",
+        "resulttext": "历|历|可|数|不|可|胜|数",
+        "weight": 1
+    },
+    {
+        "curtext": "泻|一|行|之|里|千",
+        "resulttext": "千|里|之|行|一|泻|千|里",
+        "weight": 1
+    },
+    {
+        "curtext": "律|一|落|丈|千|篇",
+        "resulttext": "千|篇|一|律|一|落|千|丈",
+        "weight": 1
+    },
+    {
+        "curtext": "缕|紫|万|千|丝|红",
+        "resulttext": "千|丝|万|缕|万|紫|千|红",
+        "weight": 1
+    },
+    {
+        "curtext": "化|有|乌|险|夷|为",
+        "resulttext": "化|险|为|夷|化|为|乌|有",
+        "weight": 1
+    },
+    {
+        "curtext": "新|象|包|万|更|罗",
+        "resulttext": "包|罗|万|象|万|象|更|新",
+        "weight": 1
+    },
+    {
+        "curtext": "不|功|成|居|垂|败",
+        "resulttext": "功|败|垂|成|功|成|不|居",
+        "weight": 1
+    },
+    {
+        "curtext": "芙|落|蓉|水|出|石",
+        "resulttext": "出|水|芙|蓉|水|落|石|出",
+        "weight": 1
+    },
+    {
+        "curtext": "貌|扬|不|计|其|数",
+        "resulttext": "其|貌|不|扬|不|计|其|数",
+        "weight": 1
+    },
+    {
+        "curtext": "兵|不|诈|厌|动|按",
+        "resulttext": "兵|不|厌|诈|按|兵|不|动",
+        "weight": 1
+    },
+    {
+        "curtext": "面|珑|剔|透|八|玲",
+        "resulttext": "八|面|玲|珑|玲|珑|剔|透",
+        "weight": 1
+    },
+    {
+        "curtext": "大|磊|光|落|正|明",
+        "resulttext": "光|明|磊|落|正|大|光|明",
+        "weight": 1
+    },
+    {
+        "curtext": "光|彩|炬|夺|目|如",
+        "resulttext": "光|彩|夺|目|目|光|如|炬",
+        "weight": 1
+    },
+    {
+        "curtext": "夺|声|人|己|后|先",
+        "resulttext": "先|人|后|己|先|声|夺|人",
+        "weight": 1
+    },
+    {
+        "curtext": "义|成|仁|取|假|假",
+        "resulttext": "假|仁|假|义|取|义|成|仁",
+        "weight": 1
+    },
+    {
+        "curtext": "甚|供|不|解|应|求",
+        "resulttext": "供|不|应|求|不|求|甚|解",
+        "weight": 1
+    },
+    {
+        "curtext": "月|星|朗|众|稀|捧",
+        "resulttext": "众|星|捧|月|月|朗|星|稀",
+        "weight": 1
+    },
+    {
+        "curtext": "共|不|仰|戴|天|愧",
+        "resulttext": "仰|不|愧|天|不|共|戴|天",
+        "weight": 1
+    },
+    {
+        "curtext": "息|宁|事|人|于|浮",
+        "resulttext": "人|浮|于|事|息|事|宁|人",
+        "weight": 1
+    },
+    {
+        "curtext": "先|鼎|沸|声|夺|人",
+        "resulttext": "人|声|鼎|沸|先|声|夺|人",
+        "weight": 1
+    },
+    {
+        "curtext": "危|人|人|命|自|浅",
+        "resulttext": "人|人|自|危|人|命|危|浅",
+        "weight": 1
+    },
+    {
+        "curtext": "井|不|井|紊|有|条",
+        "resulttext": "井|井|有|条|有|条|不|紊",
+        "weight": 1
+    },
+    {
+        "curtext": "色|五|一|一|光|十",
+        "resulttext": "五|光|十|色|一|五|一|十",
+        "weight": 1
+    },
+    {
+        "curtext": "散|云|蒙|雾|消|迷",
+        "resulttext": "云|雾|迷|蒙|云|消|雾|散",
+        "weight": 1
+    },
+    {
+        "curtext": "事|出|有|人|成|因",
+        "resulttext": "事|出|有|因|因|人|成|事",
+        "weight": 1
+    },
+    {
+        "curtext": "拈|怕|重|轻|足|举",
+        "resulttext": "举|足|轻|重|拈|轻|怕|重",
+        "weight": 1
+    },
+    {
+        "curtext": "三|长|短|两|刀|面",
+        "resulttext": "两|面|三|刀|三|长|两|短",
+        "weight": 1
+    },
+    {
+        "curtext": "曳|弃|丢|盔|甲|兵",
+        "resulttext": "丢|盔|弃|甲|弃|甲|曳|兵",
+        "weight": 1
+    },
+    {
+        "curtext": "一|之|毛|拔|地|不",
+        "resulttext": "不|毛|之|地|一|毛|不|拔",
+        "weight": 1
+    },
+    {
+        "curtext": "不|折|不|百|扣|回",
+        "resulttext": "不|折|不|扣|百|折|不|回",
+        "weight": 1
+    },
+    {
+        "curtext": "摧|术|坚|不|无|学",
+        "resulttext": "不|学|无|术|无|坚|不|摧",
+        "weight": 1
+    },
+    {
+        "curtext": "一|毛|钱|不|名|拔",
+        "resulttext": "不|名|一|钱|一|毛|不|拔",
+        "weight": 1
+    },
+    {
+        "curtext": "当|多|锐|可|不|得",
+        "resulttext": "不|可|多|得|锐|不|可|当",
+        "weight": 1
+    },
+    {
+        "curtext": "人|不|情|其|近|乏",
+        "resulttext": "不|乏|其|人|不|近|人|情",
+        "weight": 1
+    },
+    {
+        "curtext": "云|里|失|一|万|无",
+        "resulttext": "万|里|无|云|万|无|一|失",
+        "weight": 1
+    },
+    {
+        "curtext": "绪|万|头|山|千|水",
+        "resulttext": "万|水|千|山|千|头|万|绪",
+        "weight": 1
+    },
+    {
+        "curtext": "本|一|心|万|利|众",
+        "resulttext": "万|众|一|心|一|本|万|利",
+        "weight": 1
+    },
+    {
+        "curtext": "舌|横|八|竖|嘴|七",
+        "resulttext": "七|嘴|八|舌|横|七|竖|八",
+        "weight": 1
+    },
+    {
+        "curtext": "一|气|鼓|瀣|作|沆",
+        "resulttext": "一|鼓|作|气|沆|瀣|一|气",
+        "weight": 1
+    },
+    {
+        "curtext": "一|胆|身|孑|然|是",
+        "resulttext": "一|身|是|胆|孑|然|一|身",
+        "weight": 1
+    },
+    {
+        "curtext": "出|如|水|一|败|辙",
+        "resulttext": "一|败|如|水|如|出|一|辙",
+        "weight": 1
+    },
+    {
+        "curtext": "钧|一|千|触|发|即",
+        "resulttext": "一|触|即|发|一|发|千|钧",
+        "weight": 1
+    },
+    {
+        "curtext": "目|一|然|了|身|孑",
+        "resulttext": "一|目|了|然|孑|然|一|身",
+        "weight": 1
+    },
+    {
+        "curtext": "五|十|寒|暴|一|一",
+        "resulttext": "一|暴|十|寒|一|五|一|十",
+        "weight": 1
+    },
+    {
+        "curtext": "举|一|三|秋|日|反",
+        "resulttext": "一|日|三|秋|举|一|反|三",
+        "weight": 1
+    },
+    {
+        "curtext": "技|一|之|线|日|长",
+        "resulttext": "一|技|之|长|日|长|一|线",
+        "weight": 1
+    },
+    {
+        "curtext": "一|烦|乱|一|意|心",
+        "resulttext": "一|心|一|意|心|烦|意|乱",
+        "weight": 1
+    },
+    {
+        "curtext": "两|得|一|反|三|举",
+        "resulttext": "一|举|两|得|举|一|反|三",
+        "weight": 1
+    },
+    {
+        "curtext": "而|走|铤|险|不|胫",
+        "resulttext": "铤|而|走|险|不|胫|而|走",
+        "weight": 1
+    },
+    {
+        "curtext": "抽|釜|止|沸|底|薪",
+        "resulttext": "釜|底|抽|薪|抽|薪|止|沸",
+        "weight": 1
+    },
+    {
+        "curtext": "脾|沁|惑|人|蛊|心",
+        "resulttext": "蛊|惑|人|心|沁|人|心|脾",
+        "weight": 1
+    },
+    {
+        "curtext": "叹|大|止|为|观|蔚",
+        "resulttext": "蔚|为|大|观|叹|为|观|止",
+        "weight": 1
+    },
+    {
+        "curtext": "灵|生|炭|涂|荼|毒",
+        "resulttext": "荼|毒|生|灵|生|灵|涂|炭",
+        "weight": 1
+    },
+    {
+        "curtext": "人|命|危|浅|草|菅",
+        "resulttext": "草|菅|人|命|人|命|危|浅",
+        "weight": 1
+    },
+    {
+        "curtext": "苦|仃|孤|诣|伶|心",
+        "resulttext": "苦|心|孤|诣|孤|苦|伶|仃",
+        "weight": 1
+    },
+    {
+        "curtext": "厉|内|俱|声|色|荏",
+        "resulttext": "色|厉|内|荏|声|色|俱|厉",
+        "weight": 1
+    },
+    {
+        "curtext": "师|出|用|自|心|裁",
+        "resulttext": "自|出|心|裁|师|心|自|用",
+        "weight": 1
+    },
+    {
+        "curtext": "为|不|肆|妄|以|意",
+        "resulttext": "肆|意|妄|为|不|以|为|意",
+        "weight": 1
+    },
+    {
+        "curtext": "穷|路|日|末|途|暮",
+        "resulttext": "穷|途|末|路|日|暮|途|穷",
+        "weight": 1
+    },
+    {
+        "curtext": "见|相|绌|尽|形|穷",
+        "resulttext": "穷|形|尽|相|相|形|见|绌",
+        "weight": 1
+    },
+    {
+        "curtext": "碌|无|为|碌|不|所",
+        "resulttext": "碌|碌|无|为|无|所|不|为",
+        "weight": 1
+    },
+    {
+        "curtext": "映|趣|辅|相|相|成",
+        "resulttext": "相|辅|相|成|相|映|成|趣",
+        "weight": 1
+    },
+    {
+        "curtext": "相|随|影|绌|见|形",
+        "resulttext": "相|形|见|绌|形|影|相|随",
+        "weight": 1
+    },
+    {
+        "curtext": "痛|疾|首|恶|心|深",
+        "resulttext": "痛|心|疾|首|深|恶|痛|疾",
+        "weight": 1
+    },
+    {
+        "curtext": "筹|胜|一|略|展|莫",
+        "resulttext": "略|胜|一|筹|一|筹|莫|展",
+        "weight": 1
+    },
+    {
+        "curtext": "入|生|关|死|出|攸",
+        "resulttext": "生|死|攸|关|出|生|入|死",
+        "weight": 1
+    },
+    {
+        "curtext": "可|企|不|防|及|猝",
+        "resulttext": "猝|不|及|防|不|可|企|及",
+        "weight": 1
+    },
+    {
+        "curtext": "关|漠|宣|照|心|不",
+        "resulttext": "漠|不|关|心|心|照|不|宣",
+        "weight": 1
+    },
+    {
+        "curtext": "有|辜|死|游|余|刃",
+        "resulttext": "游|刃|有|余|死|有|余|辜",
+        "weight": 1
+    },
+    {
+        "curtext": "木|人|脾|心|沁|石",
+        "resulttext": "沁|人|心|脾|木|人|石|心",
+        "weight": 1
+    },
+    {
+        "curtext": "暮|脉|去|来|朝|龙",
+        "resulttext": "来|龙|去|脉|暮|去|朝|来",
+        "weight": 1
+    },
+    {
+        "curtext": "不|保|闻|死|朝|夕",
+        "resulttext": "朝|不|保|夕|朝|闻|夕|死",
+        "weight": 1
+    },
+    {
+        "curtext": "恐|无|独|偶|恃|有",
+        "resulttext": "有|恃|无|恐|无|独|有|偶",
+        "weight": 1
+    },
+    {
+        "curtext": "暴|物|天|华|殄|宝",
+        "resulttext": "暴|殄|天|物|物|华|天|宝",
+        "weight": 1
+    },
+    {
+        "curtext": "风|春|华|秋|实|月",
+        "resulttext": "春|华|秋|实|秋|月|春|风",
+        "weight": 1
+    },
+    {
+        "curtext": "往|一|如|不|既|咎",
+        "resulttext": "既|往|不|咎|一|如|既|往",
+        "weight": 1
+    },
+    {
+        "curtext": "战|惊|提|吊|心|胆",
+        "resulttext": "提|心|吊|胆|胆|战|心|惊",
+        "weight": 1
+    },
+    {
+        "curtext": "学|才|浅|大|志|疏",
+        "resulttext": "才|疏|学|浅|志|大|才|疏",
+        "weight": 1
+    },
+    {
+        "curtext": "同|力|心|戮|交|瘁",
+        "resulttext": "戮|力|同|心|心|力|交|瘁",
+        "weight": 1
+    },
+    {
+        "curtext": "偿|患|不|得|患|失",
+        "resulttext": "患|得|患|失|得|不|偿|失",
+        "weight": 1
+    },
+    {
+        "curtext": "事|息|人|成|宁|因",
+        "resulttext": "息|事|宁|人|因|人|成|事",
+        "weight": 1
+    },
+    {
+        "curtext": "可|遏|药|不|怒|救",
+        "resulttext": "怒|不|可|遏|不|可|救|药",
+        "weight": 1
+    },
+    {
+        "curtext": "禁|情|忍|自|俊|不",
+        "resulttext": "忍|俊|不|禁|情|不|自|禁",
+        "weight": 1
+    },
+    {
+        "curtext": "心|患|之|腹|隐|恻",
+        "resulttext": "心|腹|之|患|恻|隐|之|心",
+        "weight": 1
+    },
+    {
+        "curtext": "赏|目|心|诚|服|悦",
+        "resulttext": "心|悦|诚|服|赏|心|悦|目",
+        "weight": 1
+    },
+    {
+        "curtext": "只|影|相|形|依|单",
+        "resulttext": "形|影|相|依|形|单|影|只",
+        "weight": 1
+    },
+    {
+        "curtext": "以|强|胜|弱|肉|食",
+        "resulttext": "弱|肉|强|食|以|强|胜|弱",
+        "weight": 1
+    },
+    {
+        "curtext": "天|地|裂|幕|崩|席",
+        "resulttext": "幕|天|席|地|天|崩|地|裂",
+        "weight": 1
+    },
+    {
+        "curtext": "一|意|注|掷|行|孤",
+        "resulttext": "孤|注|一|掷|一|意|孤|行",
+        "weight": 1
+    },
+    {
+        "curtext": "既|如|辙|出|一|往",
+        "resulttext": "如|出|一|辙|一|如|既|往",
+        "weight": 1
+    },
+    {
+        "curtext": "一|好|逸|恶|劳|永",
+        "resulttext": "好|逸|恶|劳|一|劳|永|逸",
+        "weight": 1
+    },
+    {
+        "curtext": "遏|云|行|集|应|响",
+        "resulttext": "响|遏|行|云|云|集|响|应",
+        "weight": 1
+    },
+    {
+        "curtext": "闻|耸|言|听|危|人",
+        "resulttext": "危|言|耸|听|耸|人|听|闻",
+        "weight": 1
+    },
+    {
+        "curtext": "失|臂|刎|之|交|颈",
+        "resulttext": "刎|颈|之|交|失|之|交|臂",
+        "weight": 1
+    },
+    {
+        "curtext": "不|言|逊|出|而|喻",
+        "resulttext": "出|言|不|逊|不|言|而|喻",
+        "weight": 1
+    },
+    {
+        "curtext": "生|入|不|死|敷|出",
+        "resulttext": "出|生|入|死|入|不|敷|出",
+        "weight": 1
+    },
+    {
+        "curtext": "壑|邻|以|习|为|常",
+        "resulttext": "习|以|为|常|以|邻|为|壑",
+        "weight": 1
+    },
+    {
+        "curtext": "乐|可|不|蜀|议|思",
+        "resulttext": "乐|不|思|蜀|不|可|思|议",
+        "weight": 1
+    },
+    {
+        "curtext": "为|富|不|所|仁|无",
+        "resulttext": "为|富|不|仁|无|所|不|为",
+        "weight": 1
+    },
+    {
+        "curtext": "速|理|不|客|置|之",
+        "resulttext": "不|速|之|客|置|之|不|理",
+        "weight": 1
+    },
+    {
+        "curtext": "破|自|攻|禁|不|情",
+        "resulttext": "不|攻|自|破|情|不|自|禁",
+        "weight": 1
+    },
+    {
+        "curtext": "一|屑|顾|不|振|蹶",
+        "resulttext": "不|屑|一|顾|一|蹶|不|振",
+        "weight": 1
+    },
+    {
+        "curtext": "而|栗|寒|秀|不|苗",
+        "resulttext": "不|寒|而|栗|苗|而|不|秀",
+        "weight": 1
+    },
+    {
+        "curtext": "不|百|折|堪|首|回",
+        "resulttext": "不|堪|回|首|百|折|不|回",
+        "weight": 1
+    },
+    {
+        "curtext": "过|企|不|可|及|犹",
+        "resulttext": "不|可|企|及|过|犹|不|及",
+        "weight": 1
+    },
+    {
+        "curtext": "蹶|而|振|足|不|一",
+        "resulttext": "一|蹶|不|振|不|一|而|足",
+        "weight": 1
+    },
+    {
+        "curtext": "是|筹|衷|展|一|莫",
+        "resulttext": "一|筹|莫|展|莫|衷|一|是",
+        "weight": 1
+    },
+    {
+        "curtext": "足|就|而|挥|不|一",
+        "resulttext": "一|挥|而|就|不|一|而|足",
+        "weight": 1
+    },
+    {
+        "curtext": "见|如|往|既|故|一",
+        "resulttext": "一|如|既|往|一|见|如|故",
+        "weight": 1
+    },
+    {
+        "curtext": "烦|不|要|言|胜|其",
+        "resulttext": "要|言|不|烦|不|胜|其|烦",
+        "weight": 1
+    },
+    {
+        "curtext": "巧|详|熟|生|能|耳",
+        "resulttext": "耳|熟|能|详|熟|能|生|巧",
+        "weight": 1
+    },
+    {
+        "curtext": "罚|不|当|诛|罪|容",
+        "resulttext": "罪|不|容|诛|罚|不|当|罪",
+        "weight": 1
+    },
+    {
+        "curtext": "发|爽|犯|不|毫|秋",
+        "resulttext": "秋|毫|不|犯|毫|发|不|爽",
+        "weight": 1
+    },
+    {
+        "curtext": "堂|戈|登|室|操|入",
+        "resulttext": "登|堂|入|室|入|室|操|戈",
+        "weight": 1
+    },
+    {
+        "curtext": "投|代|僵|报|李|桃",
+        "resulttext": "李|代|桃|僵|投|桃|报|李",
+        "weight": 1
+    },
+    {
+        "curtext": "谋|闻|夕|朝|不|死",
+        "resulttext": "朝|闻|夕|死|朝|不|谋|夕",
+        "weight": 1
+    },
+    {
+        "curtext": "合|朝|谋|不|夕|而",
+        "resulttext": "朝|不|谋|夕|不|谋|而|合",
+        "weight": 1
+    },
+    {
+        "curtext": "长|雅|线|日|之|一",
+        "resulttext": "日|长|一|线|一|日|之|雅",
+        "weight": 1
+    },
+    {
+        "curtext": "不|为|无|所|为|欲",
+        "resulttext": "无|所|不|为|为|所|欲|为",
+        "weight": 1
+    },
+    {
+        "curtext": "点|不|文|名|加|一",
+        "resulttext": "文|不|加|点|一|文|不|名",
+        "weight": 1
+    },
+    {
+        "curtext": "近|人|禁|情|不|自",
+        "resulttext": "情|不|自|禁|不|近|人|情",
+        "weight": 1
+    },
+    {
+        "curtext": "义|大|微|执|言|仗",
+        "resulttext": "微|言|大|义|仗|义|执|言",
+        "weight": 1
+    },
+    {
+        "curtext": "悔|父|九|死|庆|不",
+        "resulttext": "庆|父|不|死|九|死|不|悔",
+        "weight": 1
+    },
+    {
+        "curtext": "心|席|卷|天|下|归",
+        "resulttext": "席|卷|天|下|天|下|归|心",
+        "weight": 1
+    },
+    {
+        "curtext": "坚|卒|不|读|忍|拔",
+        "resulttext": "坚|忍|不|拔|不|忍|卒|读",
+        "weight": 1
+    },
+    {
+        "curtext": "文|时|一|噪|不|名",
+        "resulttext": "名|噪|一|时|一|文|不|名",
+        "weight": 1
+    },
+    {
+        "curtext": "之|恭|徒|不|却|逞",
+        "resulttext": "却|之|不|恭|不|逞|之|徒",
+        "weight": 1
+    },
+    {
+        "curtext": "谋|华|实|不|合|而",
+        "resulttext": "华|而|不|实|不|谋|而|合",
+        "weight": 1
+    },
+    {
+        "curtext": "为|不|然|退|以|进",
+        "resulttext": "以|退|为|进|不|以|为|然",
+        "weight": 1
+    },
+    {
+        "curtext": "刀|患|俎|满|为|人",
+        "resulttext": "人|满|为|患|人|为|刀|俎",
+        "weight": 1
+    },
+    {
+        "curtext": "不|请|之|人|情|近",
+        "resulttext": "不|近|人|情|不|情|之|请",
+        "weight": 1
+    },
+    {
+        "curtext": "胜|烦|其|可|不|数",
+        "resulttext": "不|胜|其|烦|不|可|胜|数",
+        "weight": 1
+    },
+    {
+        "curtext": "不|数|可|法|常|胜",
+        "resulttext": "不|法|常|可|不|可|胜|数",
+        "weight": 1
+    },
+    {
+        "curtext": "名|而|足|一|不|文",
+        "resulttext": "不|一|而|足|一|文|不|名",
+        "weight": 1
+    }
+]
